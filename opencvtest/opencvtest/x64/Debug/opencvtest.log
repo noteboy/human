@@ -1,0 +1,11 @@
+﻿  test1.cpp
+f:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\liuxiaolong\documents\visual studio 2015\projects\opencvtest\opencvtest\test1.cpp(68): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\liuxiaolong\documents\visual studio 2015\projects\opencvtest\opencvtest\test1.cpp(154): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\liuxiaolong\documents\visual studio 2015\projects\opencvtest\opencvtest\test1.cpp(155): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\liuxiaolong\documents\visual studio 2015\projects\opencvtest\opencvtest\test1.cpp(156): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  opencvtest.vcxproj -> C:\Users\liuxiaolong\documents\visual studio 2015\Projects\opencvtest\x64\Debug\opencvtest.exe
+  opencvtest.vcxproj -> C:\Users\liuxiaolong\documents\visual studio 2015\Projects\opencvtest\x64\Debug\opencvtest.pdb (Full PDB)
